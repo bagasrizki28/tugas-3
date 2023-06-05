@@ -1,0 +1,27 @@
+.App {
+  text-align: left;
+}
+
+header {
+  background-color: #0000ff;
+  padding: 20px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.card {
+  margin: 10px;
+  width: 200px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background: #ffa500;
+}
+
+img {
+  width: 100%;
+}
